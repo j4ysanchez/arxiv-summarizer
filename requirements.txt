@@ -1,0 +1,3 @@
+functions-framework==3.*
+arxiv==2.*
+google-generativeai>=0.8.0
